@@ -8,7 +8,7 @@ Program to find the number of occurences of words in text files by MapReduce pro
 
 - Input
 
-![image](https://github.com/frank13trl/Hadoop-MapReduce-Word-Count/blob/main/Screenshots/input.png)
+![image](https://github.com/jeffcode99/hadoop-word-count/blob/main/input.png)
 
 - Ouput
 
